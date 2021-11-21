@@ -1,0 +1,18 @@
+body {
+  background-color: #cbf1f5;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #30e3ca;
+  border-width: 7px;
+  width: 100%;
+}
+h1 {
+  color: #11999e;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h3 {
+  color: #11999e;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
